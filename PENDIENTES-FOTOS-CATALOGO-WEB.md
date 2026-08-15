@@ -13,12 +13,13 @@ equivocada, según la regla del negocio.
 - **15 se marcaron "eliminar" sin poner nada en su lugar** — siguen pendientes tal cual.
 - Las que estaban marcadas "repetida" (29) se excluyeron de esta ronda a petición de José — no entraron en la revisión de hoy, siguen con el marcador "FOTO PENDIENTE" de antes.
 
-**Total pendiente ahora: 51 tarjetas** (29 repetidas sin tocar + 21 no-corresponde: 3 con mismatch de marca/talla, 3 con pegado roto por rehacer, 15 sin nada).
+**Actualizado 15/08/2026 (tarde, 2ª pasada):** las 3 que tenían el pegado roto se repitieron bien — José copió la imagen a tamaño completo esta vez. Las 3 verificadas y puestas: Pasta de Ají Amarillo del Huerto 212g, Jugo de Coco con Pulpa Amazonia 330ml, Flor de Jamaica 125g. Quedan fuera de esta lista.
+
+**Total pendiente ahora: 48 tarjetas** (29 repetidas sin tocar + 18 no-corresponde: 3 con mismatch de marca/talla, 15 sin nada).
 
 | Categoría | Producto | Talla | Motivo |
 |---|---|---|---|
 | Ajies, salsas y alinos | ADOBO SIN PIMIENTA GOYA | 226 G | REPETIDA |
-| Ajies, salsas y alinos | PASTA DE AJI AMARILLO DEL HUERTO 212 G |  | NO CORRESPONDE — pegado roto (enlace de miniatura, rehacer) |
 | Ajies, salsas y alinos | SALSA CHAMOY-CHILERITO 24/ 355 ML |  | REPETIDA |
 | Ajies, salsas y alinos | SALSA VALENTINA PICANTE (ETIQUETA NEGRA) | 370 G | REPETIDA |
 | Arepas, panes y tortillas | TIO DOLMO PANAD: SEMITA MAZORCA (MAIZTIO) 12U 510 G 10U |  | NO CORRESPONDE |
@@ -29,8 +30,6 @@ equivocada, según la regla del negocio.
 | Bebidas | COCA-COLA LATA IMPORTACION | 33 CL | REPETIDA |
 | Bebidas | COCA-COLA ZERO LATA IMPORTACION |  | REPETIDA |
 | Bebidas | GASEOSA FRESCOLITA LATA 330 ML |  | REPETIDA |
-| Bebidas | JUGO DE COCO CON PULPA AMAZONIA | 330 ML | NO CORRESPONDE — pegado roto (enlace de miniatura, rehacer) |
-| Conservas y despensa | FLOR DE JAMAICA / CARCADE / BISSAP 125 G |  | NO CORRESPONDE — pegado roto (enlace de miniatura, rehacer) |
 | Conservas y despensa | MANDUVI KUI.MANI MOLIDO GOYA |  | NO CORRESPONDE |
 | Conservas y despensa | PASTA DE MANI DE ARACHIDE AMERICA 500 G |  | NO CORRESPONDE — foto pegada es de marca "pcd", no "América" |
 | Dulces y galletas | BOCADILLO VELEÑO MADERA 16 (550 G) | PAQUETE | NO CORRESPONDE — foto pegada muestra 36 unidades, no 16 |
