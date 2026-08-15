@@ -6,12 +6,19 @@ lista tenía una foto incorrecta (repetida de otro producto, o que no correspond
 y se le puso una foto de marcador "FOTO PENDIENTE" en su lugar — nunca una foto
 equivocada, según la regla del negocio.
 
-**Total: 61 tarjetas** (30 repetidas, 31 no correspondían).
+**Actualizado 15/08/2026 (tarde):** José revisó las 31 "no corresponde" con la herramienta `BUZON-CLAUDE/SELECCION-FOTOS-CATALOGO.html`. De ahí:
+- **10 resueltas** con foto real que él mismo pegó, verificada uno a uno (marca+talla coinciden): Hoja de Plátano Nativo 500g, Frijol Rojo de Seda El Mejor 907g, Gelatina Royal Uva 40g, Frijoles Negros bolsa 3kg, Mazamorra Blanca 500g, Mote Cocido América 400g, Farinha de Mandioca Torrada Yoki 500g, Nata Criolla tarrina 28cl, Azúcar de Coco 2kg, Maracuyá c/pepas 500g. Ya están puestas en `index.html`, quitadas de esta lista.
+- **3 con foto pegada pero que NO coincide** — no se usaron, siguen pendientes: Bocadillo Veleño Madera (la foto pegada muestra 36 unidades, el catálogo pide 16), Gelatina Royal Naranja (la foto pegada muestra 22g, el catálogo pide 40g), Pasta de Maní de Arachide América (la foto pegada es de marca "pcd", no "América").
+- **3 con un pegado que no se guardó bien** (quedó como enlace a una miniatura de Google, no como imagen real) — hay que repetir el copiar/pegar desde la imagen a tamaño completo, no desde el resultado de búsqueda: Pasta de Ají Amarillo del Huerto 212g, Jugo de Coco con Pulpa Amazonia 330ml, Flor de Jamaica/Carcade/Bissap 125g.
+- **15 se marcaron "eliminar" sin poner nada en su lugar** — siguen pendientes tal cual.
+- Las que estaban marcadas "repetida" (29) se excluyeron de esta ronda a petición de José — no entraron en la revisión de hoy, siguen con el marcador "FOTO PENDIENTE" de antes.
+
+**Total pendiente ahora: 51 tarjetas** (29 repetidas sin tocar + 21 no-corresponde: 3 con mismatch de marca/talla, 3 con pegado roto por rehacer, 15 sin nada).
 
 | Categoría | Producto | Talla | Motivo |
 |---|---|---|---|
 | Ajies, salsas y alinos | ADOBO SIN PIMIENTA GOYA | 226 G | REPETIDA |
-| Ajies, salsas y alinos | PASTA DE AJI AMARILLO DEL HUERTO 212 G |  | NO CORRESPONDE |
+| Ajies, salsas y alinos | PASTA DE AJI AMARILLO DEL HUERTO 212 G |  | NO CORRESPONDE — pegado roto (enlace de miniatura, rehacer) |
 | Ajies, salsas y alinos | SALSA CHAMOY-CHILERITO 24/ 355 ML |  | REPETIDA |
 | Ajies, salsas y alinos | SALSA VALENTINA PICANTE (ETIQUETA NEGRA) | 370 G | REPETIDA |
 | Arepas, panes y tortillas | TIO DOLMO PANAD: SEMITA MAZORCA (MAIZTIO) 12U 510 G 10U |  | NO CORRESPONDE |
@@ -22,33 +29,24 @@ equivocada, según la regla del negocio.
 | Bebidas | COCA-COLA LATA IMPORTACION | 33 CL | REPETIDA |
 | Bebidas | COCA-COLA ZERO LATA IMPORTACION |  | REPETIDA |
 | Bebidas | GASEOSA FRESCOLITA LATA 330 ML |  | REPETIDA |
-| Bebidas | JUGO DE COCO CON PULPA AMAZONIA | 330 ML | NO CORRESPONDE |
-| Conservas y despensa | FLOR DE JAMAICA / CARCADE / BISSAP 125 G |  | NO CORRESPONDE |
-| Conservas y despensa | HOJA DE PLATANO NATIVO 500 G |  | NO CORRESPONDE |
+| Bebidas | JUGO DE COCO CON PULPA AMAZONIA | 330 ML | NO CORRESPONDE — pegado roto (enlace de miniatura, rehacer) |
+| Conservas y despensa | FLOR DE JAMAICA / CARCADE / BISSAP 125 G |  | NO CORRESPONDE — pegado roto (enlace de miniatura, rehacer) |
 | Conservas y despensa | MANDUVI KUI.MANI MOLIDO GOYA |  | NO CORRESPONDE |
-| Conservas y despensa | PASTA DE MANI DE ARACHIDE AMERICA 500 G |  | NO CORRESPONDE |
-| Dulces y galletas | BOCADILLO VELEÑO MADERA 16 (550 G) | PAQUETE | NO CORRESPONDE |
+| Conservas y despensa | PASTA DE MANI DE ARACHIDE AMERICA 500 G |  | NO CORRESPONDE — foto pegada es de marca "pcd", no "América" |
+| Dulces y galletas | BOCADILLO VELEÑO MADERA 16 (550 G) | PAQUETE | NO CORRESPONDE — foto pegada muestra 36 unidades, no 16 |
 | Dulces y galletas | DLD HAVANNA FRASCO 450 G |  | REPETIDA |
 | Dulces y galletas | FLIPS CAJA CHOCOLATE 220 G |  | REPETIDA |
 | Dulces y galletas | FLIPS CAJA DULCE DE LECHE 220 G |  | REPETIDA |
-| Dulces y galletas | GELATINA ROYAL: NARANJA SOBRE 40 G |  | NO CORRESPONDE |
-| Dulces y galletas | GELATINA ROYAL: UVA SOBRE 40 G |  | NO CORRESPONDE |
-| Dulces y galletas | MARACUYA C/PEPAS 500 G |  | NO CORRESPONDE |
-| Frutas y verduras | AZUCAR DE COCO EN BOLSA DE 2 KG | GRANEL | NO CORRESPONDE |
+| Dulces y galletas | GELATINA ROYAL: NARANJA SOBRE 40 G |  | NO CORRESPONDE — foto pegada muestra 22g, no 40g |
 | Frutas y verduras | MARACUYA PEPA DELICIAS DE MI TIERRA 500 G |  | NO CORRESPONDE |
 | Granos y legumbres | FRIJOL CARGAMENTO ROJO GOYA | 500 G | REPETIDA |
-| Granos y legumbres | FRIJOL ROJO DE SEDA EL MEJOR 907 G |  | NO CORRESPONDE |
 | Granos y legumbres | FRIJOL ROJO DE SEDA GOYA 500 G |  | NO CORRESPONDE |
 | Granos y legumbres | FRIJOL ROJO DE SEDA LA CEIBA 1 KG |  | NO CORRESPONDE |
 | Granos y legumbres | FRIJOL ROJO SEDA EL MEJOR 907 G |  | REPETIDA |
-| Granos y legumbres | FRIJOLES NEGROS EN BOLSA DE 3 KG | GRANEL | NO CORRESPONDE |
 | Granos y legumbres | FRIJOLES NEGROS GUISADOS GOYA 425 G |  | REPETIDA |
 | Granos y legumbres | MAIZ MORADO EL SABOR DE CASA |  | REPETIDA |
-| Granos y legumbres | MAZAMORRA BLANCA | 500 G | NO CORRESPONDE |
-| Granos y legumbres | MOTE COCIDO AMERICA 400 G |  | NO CORRESPONDE |
 | Granos y legumbres | QUINUA GOYA 500 G |  | REPETIDA |
 | Harinas y masas | DELIPAN SEMITA MAZORCA 390 G |  | NO CORRESPONDE |
-| Harinas y masas | FARINHA DE MANDIOCA TORRADA YOKI 500 G |  | NO CORRESPONDE |
 | Harinas y masas | GOFIO CANARIO EN BOLSA DE 3 KG | GRANEL | REPETIDA |
 | Harinas y masas | HARINA DE MAIZ MASECA BOLSA 1,8 KG |  | REPETIDA |
 | Harinas y masas | HARINA MAIZ BLANCA MASECA 1 KG |  | REPETIDA |
@@ -64,10 +62,10 @@ equivocada, según la regla del negocio.
 | Quesos y lacteos | MARGARINA CLOVER BRAND 400 G |  | NO CORRESPONDE |
 | Quesos y lacteos | NATA BOLSA | 250 G | NO CORRESPONDE |
 | Quesos y lacteos | NATA CRIOLLA TARRINA PEQ 0,28 L | 28 CL | NO CORRESPONDE |
-| Quesos y lacteos | NATA CRIOLLA TARRINA PEQ 28 CL |  | NO CORRESPONDE |
 | Quesos y lacteos | QUESO COSTEÑO 1 KG |  | NO CORRESPONDE |
 | Quesos y lacteos | QUESO COSTEÑO 2 KG | BARRA | NO CORRESPONDE |
 | Snacks salados | CHIFLE MADURITO TORTOLINES GDE | 100 G | NO CORRESPONDE |
 | Snacks salados | CHIFLE SAL TORTOLINES FAMILIAR 250 G |  | NO CORRESPONDE |
 | Snacks salados | CHIFLE SAL TORTOLINES GDE 100G |  | NO CORRESPONDE |
 | Snacks salados | SNACK MUNCHY KESITOS 85 G |  | REPETIDA |
+| Granos y legumbres | FRIJOL ROJO PÑO. GOYA |  | REPETIDA (mismo hallazgo, confirmado por José) |
